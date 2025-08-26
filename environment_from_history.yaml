@@ -1,0 +1,12 @@
+name: autoencoder
+channels:
+  - defaults
+dependencies:
+  - python=3.7.6
+  - tensorflow-gpu==2.2.0
+  - keras-gpu==2.3.1
+  - tensorflow-probability==0.7
+  - scikit-learn==0.22.1
+  - scikit-image==0.16.2
+  - jupyter
+prefix: /mnt/ssd_backup/anaconda3/envs/autoencoder
