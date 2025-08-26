@@ -4,5 +4,4 @@ Underwater image enhancement model based on autoencoder architecture. Created by
 
 # Setup
 
-```conda env create --name autoencoder --file environment.yaml
-```
+```conda env create --name autoencoder --file environment.yaml```
